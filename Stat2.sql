@@ -30,3 +30,4 @@ group by   nom_caissier
    
 /*maj num 1*/
 /*tester les branches de git */
+/*final test*/
