@@ -28,4 +28,5 @@ FROM ALDI.visite v
 where  commune_id=1  and magasin_id=20
 group by   nom_caissier  
    
-/*maj 1sfdf*/
+/*maj num 1*/
+/*tester les branches de git */
